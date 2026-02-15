@@ -76,36 +76,44 @@ Portfolio-Website/
 📬 Contact
 
 💼 Featured Projects:
+
 🔹 Event Quest
 
 📍 Interactive event management platform
+
 ⭐ Personalized discovery system
 
 🔹 Book Cycle
 
 📚 Second-hand book resale web application
+
 🔎 Search + responsive UI
 
 🔹 Personal Portfolio
 
 🌐 Modern developer portfolio
+
 🎨 Clean UI + animations
 
 📱 Mobile Optimized
 
 ✔ Premium hamburger menu
+
 ✔ Bottom navigation bar
+
 ✔ Perfect spacing & alignment
+
 ✔ Touch-friendly UI
 
 ⚙️ Run Locally
+
 git clone https://github.com/tharun-3231/Portfolio-Website.git
 
 cd Portfolio-Website
 
 open index.html
 
-👨‍💻 Author
+👨‍💻 Author: 
 Tharun Jarpula
 
 🔗 LinkedIn: https://www.linkedin.com/in/tharun-jarpula-1b0842306/
@@ -115,6 +123,7 @@ Tharun Jarpula
 📧 Email: jarpulatharun1@gmail.com
 
 If you like this project:
+
 🌟 Star the repo
 
 🍴 Fork it
@@ -122,14 +131,20 @@ If you like this project:
 📢 Share with others
 
 📜 License
+
 This project is licensed under the MIT License
 
 
 💬 Why This Portfolio?
+
 This portfolio demonstrates:
 
 ✔ Strong frontend development skills
+
 ✔ Responsive web design
+
 ✔ UI/UX sense
+
 ✔ Clean code structure
+
 ✔ Real project showcase
