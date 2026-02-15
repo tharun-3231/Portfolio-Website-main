@@ -5,7 +5,7 @@ A modern, fully responsive personal portfolio website built to showcase my proje
 🔗 Live Demo:
 👉 https://tharun-3231.github.io/Portfolio-Website-main/
 
-🚀 Features
+🚀 Features:
 
 🎯 Responsive design for all devices (mobile, tablet, desktop)
 
@@ -29,7 +29,7 @@ A modern, fully responsive personal portfolio website built to showcase my proje
 
 🎨 Clean color theme & custom gradients
 
-🛠 Tech Stack
+🛠 Tech Stack:
 HTML5
 
 CSS3
@@ -49,30 +49,42 @@ Portfolio-Website/
 │   ├── icons/
 │── README.md
 
-🚀 Sections Included
+🚀 Sections:
+
 🏠 Home
+
 🙋 About
+
 🧠 Skills
+
 🎓 Education
+
 💼 Experience
+
 🧩 Projects
+
 🏆 Certifications
+
 📬 Contact
 
-💼 Featured Projects
+💼 Featured Projects:
 🔹 Event Quest
+
 📍 Interactive event management platform
 ⭐ Personalized discovery system
 
 🔹 Book Cycle
+
 📚 Second-hand book resale web application
 🔎 Search + responsive UI
 
 🔹 Personal Portfolio
+
 🌐 Modern developer portfolio
 🎨 Clean UI + animations
 
 📱 Mobile Optimized
+
 ✔ Premium hamburger menu
 ✔ Bottom navigation bar
 ✔ Perfect spacing & alignment
@@ -80,18 +92,25 @@ Portfolio-Website/
 
 ⚙️ Run Locally
 git clone https://github.com/tharun-3231/Portfolio-Website.git
+
 cd Portfolio-Website
+
 open index.html
 
 👨‍💻 Author
 Tharun Jarpula
+
 🔗 LinkedIn: https://www.linkedin.com/in/tharun-jarpula-1b0842306/
+
 💻 GitHub: https://github.com/tharun-3231
+
 📧 Email: jarpulatharun1@gmail.com
 
 If you like this project:
 🌟 Star the repo
+
 🍴 Fork it
+
 📢 Share with others
 
 📜 License
