@@ -6,19 +6,31 @@ A modern, fully responsive personal portfolio website built to showcase my proje
 👉 https://tharun-3231.github.io/Portfolio-Website-main/
 
 🚀 Features
+
 🎯 Responsive design for all devices (mobile, tablet, desktop)
+
 ✨ Modern UI with smooth animations
+
 🧑‍💻 Interactive hero section with typing effect
+
 📂 Projects section with hover overlay (View & Code buttons)
+
 🛠 Skills categorized with stylish cards
+
 🏆 Certifications section with dynamic layout
+
 📜 Education & Experience timeline
+
 📱 Premium mobile navigation with bottom menu
+
 📩 Contact form UI
+
 🔝 Scroll-to-top button
+
 🎨 Clean color theme & custom gradients
 
 🛠 Tech Stack
+
 HTML5
 
 CSS3
