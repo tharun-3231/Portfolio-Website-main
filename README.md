@@ -1,4 +1,5 @@
 🌐 Personal Portfolio Website
+
 A modern, fully responsive personal portfolio website built to showcase my projects, skills, certifications, and experience in a clean and interactive way.
 
 🔗 Live Demo:
@@ -19,8 +20,11 @@ A modern, fully responsive personal portfolio website built to showcase my proje
 
 🛠 Tech Stack
 HTML5
+
 CSS3
+
 JavaScript
+
 Font Awesome Icons
 Google Fonts
 
