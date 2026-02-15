@@ -42,11 +42,17 @@ Google Fonts
 📂 Folder Structure
 Portfolio-Website/
 │── index.html
+
 │── style.css
+
 │── script.js
+
 │── assets/
+
 │   ├── images/
+
 │   ├── icons/
+
 │── README.md
 
 🚀 Sections:
