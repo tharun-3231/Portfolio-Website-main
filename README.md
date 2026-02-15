@@ -40,7 +40,9 @@ Font Awesome Icons
 Google Fonts
 
 📂 Folder Structure
+
 Portfolio-Website/
+
 │── index.html
 
 │── style.css
