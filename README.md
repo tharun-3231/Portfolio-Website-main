@@ -30,7 +30,6 @@ A modern, fully responsive personal portfolio website built to showcase my proje
 🎨 Clean color theme & custom gradients
 
 🛠 Tech Stack
-
 HTML5
 
 CSS3
